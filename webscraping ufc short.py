@@ -1,4 +1,4 @@
-# Importar bibliotecas
+# Importar biblioteca
 import requests  # Fazer requisições HTTP
 from bs4 import BeautifulSoup  # Parsear HTML
 import pandas as pd  # Manipulação de dados em tabelas
